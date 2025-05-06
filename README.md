@@ -97,8 +97,6 @@ incident-management/
 - **User**: Username: `user`, Password: `user123`
 
 ## Demo
-- **Video**: [docs/demo.mp4](docs/demo.mp4)
-  - Shows registration, login, incident creation, status updates, and email notifications.
 - **Screenshots**:
   - Login Page: [docs/login.png](docs/login.png)
   - Dashboard: [docs/dashboard.png](docs/dashboard.png)
