@@ -20,7 +20,6 @@ incident-management/
 │   ├── index.html        # Login and registration page
 │   └── dashboard.html    # Incident management dashboard
 ├── docs/
-│   ├── demo.mp4         # Demo video
 │   ├── login.png        # Login page screenshot
 │   └── dashboard.png    # Dashboard screenshot
 ├── app.py               # Main Flask application
